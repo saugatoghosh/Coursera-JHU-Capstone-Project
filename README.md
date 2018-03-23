@@ -1,2 +1,2 @@
 # JHUCapstone
-Data and code for next word prediction app
+Contains code files for next word prediction app
